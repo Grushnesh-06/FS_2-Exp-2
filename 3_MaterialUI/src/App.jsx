@@ -12,7 +12,7 @@ function App() {
     <Card style={{ width: 600, margin: "20px auto" }}>
       <CardMedia
         component="img"
-        alt="green iguana"
+        alt="Material UI"
         height="130"
         image="https://mui.com/static/blog/material-ui-is-now-mui/intro.png"
       />
